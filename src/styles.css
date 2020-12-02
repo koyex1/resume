@@ -10,6 +10,12 @@ border-width: 5px;
 .bio{
 margin: 5%;
 }
+.github{
+color: black;
+}
+.leetcode{
+color: yellow;
+}
 .container{
 background-color: #E9E9E9;
 }
@@ -38,12 +44,16 @@ margin-top: 7%;
 }
 
 .spring{
-width: 20%;
-height: 20px;
+width: 25%;
+height: 25px;
+margin-left: 20px;
+}
+.react{
+width: 7%;
 }
 .social{
-font-size: 20px;
-margin-right: 20px;
+font-size: 35px;
+margin-right: 40px;
 }
 .dp{
 width: 100%;
