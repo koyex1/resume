@@ -13,8 +13,21 @@ margin: 5%;
 .github{
 color: black;
 }
+
+.gitlab{
+background-image: url("assets/images/gitlab.png");
+height: 30px;
+width: 30px;
+background-size:contain;
+display: inline-block;
+}
+
 .leetcode{
-color: yellow;
+background-image: url("assets/images/leetcode.png");
+height: 30px;
+width: 30px;
+background-size:contain;
+display: inline-block;
 }
 .container{
 background-color: #E9E9E9;
