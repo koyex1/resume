@@ -105,6 +105,13 @@ height: 100%;
 border-bottom: 2px solid #E9E9E9;
 color: #9C968D;
 }
+.portfolio{
+background-color: green;
+height: 400px;
+width: 600px;
+margin-top: 50px;
+display: block;
+}
 
 
 @media only screen and (max-width: 782px){
@@ -114,6 +121,7 @@ flex: 100%;
 .col-left{
  min-width: fit-content;
 }
+
 .container{
 margin:0px;
 }
